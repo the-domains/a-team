@@ -1,0 +1,28 @@
+name: A Team
+favicon: null
+layout_spectrum: 0.9376095235347748
+typography_spectrum: 0.9544828343205154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2510469574481249
+  lightness: 0.4761575947050005
+  saturation: 0.7683203401975334
+  rhythmicContrast: 0.47138255927711725
+purpose: []
